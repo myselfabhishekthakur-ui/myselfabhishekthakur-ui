@@ -1,12 +1,12 @@
 # Abhishek Kumar Thakur 👋
-### Senior Gen AI & Full-Stack Engineer | 7+ Years Experience
+### Senior Gen AI & Full-Stack Engineer | 7 Years Experience
 **Specializing in Scalable Web Architectures, LLM Orchestration, and Interactive User Interfaces.**
 
 ---
 
 ## 🌐 Engineering Background & Context
 > 💡 **Where is my code history?** 
-> To be honest, I've spent the last 7+ years so deeply buried in corporate engineering, architecting core internal systems, and deploying enterprise tools that maintaining a public GitHub profile was never the priority. Most of my daily work lived inside secure, private corporate ecosystems (like GitLab and self-hosted servers). Now, I'm using this space as a dedicated showroom for my standalone architecture experiments, custom frontend UI work, and generative AI research.
+> To be honest, I've spent the last 7 years so deeply buried in corporate engineering, architecting core internal systems, and deploying enterprise tools that maintaining a public GitHub profile was never the priority. Most of my daily work lived inside secure, private corporate ecosystems (like GitLab and self-hosted servers). Now, I'm using this space as a dedicated showroom for my standalone architecture experiments, custom frontend UI work, and generative AI research.
 
 ---
 
