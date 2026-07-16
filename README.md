@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=F7F7F7&vCenter=true&width=500&lines=Hi+I+Am+Abhishek+👋;Senior+Gen+AI+Engineer;Full-Stack+Architect" alt="Typing SVG" /></a>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=F7F7F7&vCenter=true&width=500&lines=Hi+I+Am+Abhishek+👋;Senior+Gen+AI+Engineer;Full-Stack+Architect" alt="Typing SVG" />
 
 ---
 
