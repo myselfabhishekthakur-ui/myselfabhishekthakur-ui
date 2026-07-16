@@ -1,4 +1,4 @@
-# Abhishek Kumar Thakur 👋
+# Abhishek 👋
 ### Senior Gen AI & Full-Stack Engineer | 7 Years Experience
 **Specializing in Scalable Web Architectures, LLM Orchestration, and Interactive User Interfaces.**
 
