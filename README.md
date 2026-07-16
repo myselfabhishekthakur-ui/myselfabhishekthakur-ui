@@ -4,8 +4,9 @@
 
 ---
 
-### 🌐 Engineering Background & Context
-> 💡 **Where is my code history?** Most of my 7+ years in the industry has been spent building internal tools and production systems inside secure corporate ecosystems (using GitLab and private company servers). Because that work is private, I use this GitHub profile as an open-source hub to showcase my standalone architectures, frontend UI experiments, and generative AI research.
+## 🌐 Engineering Background & Context
+> 💡 **Where is my code history?** 
+> To be honest, I've spent the last 7+ years so deeply buried in corporate engineering, architecting core internal systems, and deploying enterprise tools that maintaining a public GitHub profile was never the priority. Most of my daily work lived inside secure, private corporate ecosystems (like GitLab and self-hosted servers). Now, I'm using this space as a dedicated showroom for my standalone architecture experiments, custom frontend UI work, and generative AI research.
 
 ---
 
