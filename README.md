@@ -4,8 +4,8 @@
 
 ---
 
-### 🌐 Enterprise & Infrastructure Context
-> 💡 **Note on GitHub Activity:** The majority of my 7+ years of engineering history, architectural contributions, and enterprise-grade developments reside across internal corporate environments (GitLab, self-hosted VCS platforms, and private company repositories). This public profile serves as a curated space showcasing my recent standalone architectures, open-source initiatives, and generative AI research implementations.
+### 🌐 Engineering Background & Context
+> 💡 **Where is my code history?** Most of my 7+ years in the industry has been spent building internal tools and production systems inside secure corporate ecosystems (using GitLab and private company servers). Because that work is private, I use this GitHub profile as an open-source hub to showcase my standalone architectures, frontend UI experiments, and generative AI research.
 
 ---
 
